@@ -1,1 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Basketball World</title>
 
+    <style>
+      body {
+        background-color: #f2f2f2;
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin: 0;
+      }
+
+      h1 {
+        background-color: #222;
+        color: white;
+        padding: 30px;
+        margin: 0;
+      }
+
+      h2 {
+        color: #e87518;
+        margin-top: 30px;
+      }
+
+      p, li {
+        color: #333;
+        font-size: 16px;
+      }
+
+      ul {
+        list-style-type: none;
+        padding: 0;
+      }
+
+      li {
+        margin: 6px 0;
+      }
+
+      img {
+        border: 4px solid orange;
+        border-radius: 10px;
+        max-width: 100%;
+        height: auto;
+      }
+
+      footer {
+        background-color: #222;
+        color: white;
+        padding: 10px;
+        margin-top: 30px;
+      }
+
+      footer p {
+        color: white;
+        margin: 0;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>BASKETBALL WORLD</h1>
+    <p>Passion. Teamwork. Dedication.</p>
+
+    <h2>Welcome to Basketball World!</h2>
+    <p>Basketball is not just a game. It is a passion and a lifestyle.</p>
+
+    <img
+      src="https://images.unsplash.com/photo-1546519638-68e109498ffc?w=800"
+      width="400"
+      alt="Basketball hoop"
+    />
+
+    <h2>My Favorite Players</h2>
+    <ul>
+      <li>LeBron James</li>
+      <li>Stephen Curry</li>
+      <li>Michael Jordan</li>
+    </ul>
+
+    <h2>About Basketball</h2>
+    <p>
+      Basketball is a sport played by two teams with five players each. The goal
+      is to score points by shooting the ball into the basket.
+    </p>
+
+    <footer>
+      <p>© 2026 Basketball World</p>
+    </footer>
+  </body>
+</html>
